@@ -38,10 +38,24 @@ section{
 .popular-collection-header{
     padding-top: 100px;
     text-align: center;
+    padding-bottom: 60px;
 }
 /* --------------
 menu 
 ---------------*/
+.menu{
+    display: block;
+}
+.menu-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 20px;
+    justify-content: center;
+}
+.items{
+    padding: 10px 10px;
+    justify-content: center;
+}
 .icon{
     width: 300px;
     height: 256px;
