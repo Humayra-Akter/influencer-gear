@@ -32,13 +32,25 @@ section{
     background-color: goldenrod;
 }
 /*----------------
+ horizontal line 
+----------------*/
+.line{
+    margin-top: 80px;
+    margin-bottom: 150px;
+}
+.logo img{
+    width: 150px;
+    height: 70px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+/*----------------
  second section
  -------------- */
 
 .popular-collection-header{
-    padding-top: 100px;
     text-align: center;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
 }
 /* --------------
 menu 
@@ -78,6 +90,25 @@ menu
 }
 .details{
     font-size: 14px;
+}
+/*--------------------
+extra
+--------------------*/
+.link-button{
+    font-size: 16px;
+    font-weight: 900;
+    color: rgb(112, 2, 2);
+    background: none;
+    justify-content: end;
+    padding-right: 40px;
+}
+.bonus{
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.bonus img{
+    margin-right: 40px;
 }
 /*------------------
 ending
