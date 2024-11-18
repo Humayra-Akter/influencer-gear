@@ -1,1 +1,1 @@
-![Uploading influencer-gears.png…]()
+![Project Screenshot](influencer-gears.png)
